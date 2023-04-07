@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go-proxy/server"
+	"go-std-proxy/server"
 )
 
 func main() {

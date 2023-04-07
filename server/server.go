@@ -1,7 +1,7 @@
 package server
 
 import (
-	"go-proxy/handler"
+	"go-std-proxy/handler"
 	"net/http"
 )
 
